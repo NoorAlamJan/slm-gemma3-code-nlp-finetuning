@@ -104,19 +104,6 @@ The script auto-detects your hardware:
 
 ---
 
-## Reference
-
-```bibtex
-@article{aryabumi2024code,
-  title   = {To Code, or Not To Code? Exploring the Impact of Adding Coding Data on LLM Pretraining},
-  author  = {Aryabumi, Viraat and others},
-  journal = {arXiv preprint arXiv:2408.10914},
-  year    = {2024}
-}
-```
-
----
-
 ## Author
 
 **Noor Alam**  
