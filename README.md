@@ -1,8 +1,5 @@
 # Impact of Code on Small Language Models (SLMs)
 
-> MS Thesis — University of Naples Federico II  
-> Based on: *"To Code, or Not To Code? Exploring the Impact of Adding Coding Data on LLM Pretraining"* (Aryabumi et al., 2024)
-
 ---
 
 ## Overview
@@ -123,5 +120,5 @@ The script auto-detects your hardware:
 ## Author
 
 **Noor Alam**  
-MS Data Science — University of Naples Federico II  
+Data Science
 [GitHub](https://github.com/NoorAlamJan) · [LinkedIn](https://linkedin.com/in/noor-alam-0a7122209)
