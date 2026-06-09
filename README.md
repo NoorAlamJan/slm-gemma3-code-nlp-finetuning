@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the full experimental pipeline for my MS thesis investigating how code data in pretraining affects the reasoning, language, and coding capabilities of Small Language Models (SLMs). The study replicates and extends the findings of Aryabumi et al. (2024) using **TinyLlama** as the base model, with controlled data mixture experiments and benchmark-driven evaluation.
+This repository contains the full experimental pipeline investigating how code data in pretraining affects the reasoning, language, and coding capabilities of Small Language Models (SLMs). The study replicates and extends the findings of Aryabumi et al. (2024) using **TinyLlama** as the base model, with controlled data mixture experiments and benchmark-driven evaluation.
 
 The central research questions are:
 
